@@ -1,0 +1,78 @@
+# ============================================================
+# SISTEMA DE GESTÃO DE ESTOQUE COM IA
+# Requirements para Windows (sem permissão de administrador)
+# ============================================================
+
+# PROCESSAMENTO DE DADOS
+# ------------------------------------------------------------
+pandas==2.1.4           # Manipulação de dados (CSV, Excel, Parquet)
+numpy==1.26.3           # Computação numérica (compatível com pyarrow)
+openpyxl==3.1.2         # Leitura/escrita de arquivos Excel (.xlsx)
+pyarrow==15.0.0         # Leitura/escrita de arquivos Parquet (histórico)
+
+# AGENTE IA
+# ------------------------------------------------------------
+ollama==0.1.6           # Cliente Python para Ollama (LLaMA 3)
+                        # NOTA: Ollama precisa ser instalado separadamente
+                        #       Download: https://ollama.ai/download
+                        #       Não requer admin se instalado para usuário
+
+# API REST (opcional - para modo servidor)
+# ------------------------------------------------------------
+fastapi==0.109.0        # Framework web para API REST
+uvicorn==0.27.0         # Servidor ASGI para FastAPI
+pydantic==2.5.3         # Validação de dados para API
+
+# UTILITÁRIOS
+# ------------------------------------------------------------
+requests==2.31.0        # Cliente HTTP (requisições web)
+python-dateutil==2.8.2  # Manipulação avançada de datas
+
+# INTERFACE GRÁFICA
+# ------------------------------------------------------------
+# tkinter - JÁ INCLUÍDO NO PYTHON (não precisa instalar)
+# Vem nativamente com Python 3.x em Windows
+
+# CRIAÇÃO DE EXECUTÁVEL
+# ------------------------------------------------------------
+pyinstaller==6.3.0      # Criar executável standalone (.exe)
+                        # Uso: python criar_executavel.py
+
+# ============================================================
+# INSTALAÇÃO
+# ============================================================
+# 
+# 1. Criar ambiente virtual (recomendado):
+#    python -m venv .venv
+#    .venv\Scripts\activate
+#
+# 2. Instalar dependências:
+#    pip install -r requirements.txt
+#
+# 3. Instalar Ollama (separadamente):
+#    - Download: https://ollama.ai/download
+#    - Instalação para usuário (não requer admin)
+#    - Após instalar: ollama pull llama3
+#
+# ============================================================
+# NOTAS PARA WINDOWS SEM ADMIN
+# ============================================================
+#
+# ✅ FUNCIONAM SEM ADMIN:
+# - Todas as bibliotecas Python (pip install --user)
+# - Ambiente virtual Python (venv)
+# - Ollama (instalação para usuário atual)
+# - Interface gráfica (tkinter já vem com Python)
+# - PyInstaller (criar .exe)
+#
+# ⚠️ REQUEREM INSTALAÇÃO PRÉVIA:
+# - Python 3.11+ (precisa estar instalado)
+# - Ollama (baixar e instalar do site oficial)
+#
+# 💡 DICAS:
+# - Use sempre ambiente virtual (.venv)
+# - Instale Python com opção "Add to PATH"
+# - Ollama pode ser instalado para usuário sem admin
+# - Todos os dados ficam em data/ (não requer permissões)
+#
+# ============================================================
