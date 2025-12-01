@@ -1,0 +1,371 @@
+======================================================================
+RELATÓRIO DETALHADO - SUGESTÕES DE PEDIDO
+======================================================================
+
+PRODUTO: 1023328 | LOJA: 4
+----------------------------------------------------------------------
+Estoque atual: 9 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 2.77 un/dia
+  - 7 dias: 14 un
+  - 14 dias: 45 un
+  - 30 dias: 83 un
+  - 60 dias: 118 un
+
+Análise:
+  - Cobertura atual: 3.3 dias
+  - Tendência: Queda forte (-54.8%)
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (12 unidades)
+  - Cobertura após pedido: 7.6 dias
+  - Motivo: Ajustado para baixo devido a queda nas vendas
+
+======================================================================
+
+PRODUTO: 1000757 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 2 unidades
+Embalagem: 30 unidades/caixa
+
+Vendas:
+  - Média diária: 7.97 un/dia
+  - 7 dias: 15 un
+  - 14 dias: 121 un
+  - 30 dias: 239 un
+  - 60 dias: 511 un
+
+Análise:
+  - Cobertura atual: 0.3 dias
+  - Tendência: Queda forte (-85.8%)
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (30 unidades)
+  - Cobertura após pedido: 4.0 dias
+  - Motivo: Ajustado para baixo devido a queda nas vendas
+
+======================================================================
+
+PRODUTO: 1009890 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 58 unidades
+Embalagem: 15 unidades/caixa
+
+Vendas:
+  - Média diária: 9.47 un/dia
+  - 7 dias: 37 un
+  - 14 dias: 113 un
+  - 30 dias: 284 un
+  - 60 dias: 332 un
+
+Análise:
+  - Cobertura atual: 6.1 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 1006323 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 162 unidades
+Embalagem: 15 unidades/caixa
+
+Vendas:
+  - Média diária: 1.60 un/dia
+  - 7 dias: 21 un
+  - 14 dias: 32 un
+  - 30 dias: 48 un
+  - 60 dias: 94 un
+
+Análise:
+  - Cobertura atual: 101.2 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 149419 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 16 unidades
+Embalagem: 30 unidades/caixa
+
+Vendas:
+  - Média diária: 6.57 un/dia
+  - 7 dias: 54 un
+  - 14 dias: 108 un
+  - 30 dias: 197 un
+  - 60 dias: 291 un
+
+Análise:
+  - Cobertura atual: 2.4 dias
+  - Tendência: Vendas estáveis (0.0%)
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (30 unidades)
+  - Cobertura após pedido: 7.0 dias
+  - Motivo: Calculado baseado na venda média diária
+
+======================================================================
+
+PRODUTO: 1011386 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 0 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 3.77 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 0 un
+  - 30 dias: 113 un
+  - 60 dias: 120 un
+
+Análise:
+  - Cobertura atual: 0.0 dias
+  - Tendência: Sem dados suficientes
+
+SUGESTÃO DE PEDIDO:
+  ➜ 2 caixas (24 unidades)
+  - Cobertura após pedido: 6.4 dias
+  - Motivo: Calculado baseado na venda média diária
+
+======================================================================
+
+PRODUTO: 1011387 | LOJA: 3
+----------------------------------------------------------------------
+Estoque atual: 28 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 5.47 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 86 un
+  - 30 dias: 164 un
+  - 60 dias: 180 un
+
+Análise:
+  - Cobertura atual: 5.1 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 1007548 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 0 unidades
+Embalagem: 1 unidades/caixa
+
+Vendas:
+  - Média diária: 0.00 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 0 un
+  - 30 dias: 0 un
+  - 60 dias: 0 un
+
+Análise:
+  - Cobertura atual: inf dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 1020990 | LOJA: 2
+----------------------------------------------------------------------
+Estoque atual: 12 unidades
+Embalagem: 24 unidades/caixa
+
+Vendas:
+  - Média diária: 8.30 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 126 un
+  - 30 dias: 249 un
+  - 60 dias: 269 un
+
+Análise:
+  - Cobertura atual: 1.4 dias
+  - Tendência: Sem dados suficientes
+
+SUGESTÃO DE PEDIDO:
+  ➜ 2 caixas (48 unidades)
+  - Cobertura após pedido: 7.2 dias
+  - Motivo: Calculado baseado na venda média diária
+
+======================================================================
+
+PRODUTO: 1020990 | LOJA: 5
+----------------------------------------------------------------------
+Estoque atual: 0 unidades
+Embalagem: 24 unidades/caixa
+
+Vendas:
+  - Média diária: 0.57 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 0 un
+  - 30 dias: 17 un
+  - 60 dias: 30 un
+
+Análise:
+  - Cobertura atual: 0.0 dias
+  - Tendência: Sem dados suficientes
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (24 unidades)
+  - Cobertura após pedido: 42.4 dias
+  - Motivo: Calculado baseado na venda média diária
+
+======================================================================
+
+PRODUTO: 1020990 | LOJA: 11
+----------------------------------------------------------------------
+Estoque atual: 0 unidades
+Embalagem: 24 unidades/caixa
+
+Vendas:
+  - Média diária: 3.13 un/dia
+  - 7 dias: 0 un
+  - 14 dias: 54 un
+  - 30 dias: 94 un
+  - 60 dias: 98 un
+
+Análise:
+  - Cobertura atual: 0.0 dias
+  - Tendência: Sem dados suficientes
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (24 unidades)
+  - Cobertura após pedido: 7.7 dias
+  - Motivo: Calculado baseado na venda média diária
+
+======================================================================
+
+PRODUTO: 103909 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 4 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 23.80 un/dia
+  - 7 dias: 9 un
+  - 14 dias: 307 un
+  - 30 dias: 714 un
+  - 60 dias: 1499 un
+
+Análise:
+  - Cobertura atual: 0.2 dias
+  - Tendência: Queda forte (-97.0%)
+
+SUGESTÃO DE PEDIDO:
+  ➜ 9 caixas (108 unidades)
+  - Cobertura após pedido: 4.7 dias
+  - Motivo: Ajustado para baixo devido a queda nas vendas
+
+======================================================================
+
+PRODUTO: 36816 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 352 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 22.17 un/dia
+  - 7 dias: 173 un
+  - 14 dias: 290 un
+  - 30 dias: 665 un
+  - 60 dias: 1408 un
+
+Análise:
+  - Cobertura atual: 15.9 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 1401882 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 339 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 40.47 un/dia
+  - 7 dias: 301 un
+  - 14 dias: 482 un
+  - 30 dias: 1214 un
+  - 60 dias: 2349 un
+
+Análise:
+  - Cobertura atual: 8.4 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================
+
+PRODUTO: 1615643 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 87 unidades
+Embalagem: 108 unidades/caixa
+
+Vendas:
+  - Média diária: 38.37 un/dia
+  - 7 dias: 83 un
+  - 14 dias: 875 un
+  - 30 dias: 1151 un
+  - 60 dias: 5631 un
+
+Análise:
+  - Cobertura atual: 2.3 dias
+  - Tendência: Queda forte (-89.5%)
+
+SUGESTÃO DE PEDIDO:
+  ➜ 1 caixas (108 unidades)
+  - Cobertura após pedido: 5.1 dias
+  - Motivo: Ajustado para baixo devido a queda nas vendas
+
+======================================================================
+
+PRODUTO: 21771 | LOJA: 14
+----------------------------------------------------------------------
+Estoque atual: 3406 unidades
+Embalagem: 12 unidades/caixa
+
+Vendas:
+  - Média diária: 335.00 un/dia
+  - 7 dias: 1455 un
+  - 14 dias: 4451 un
+  - 30 dias: 10050 un
+  - 60 dias: 18443 un
+
+Análise:
+  - Cobertura atual: 10.2 dias
+  - Tendência: N/A
+
+SUGESTÃO DE PEDIDO:
+  ➜ 0 caixas (0 unidades)
+  - Cobertura após pedido: 0.0 dias
+  - Motivo: Estoque atual suficiente para cobertura
+
+======================================================================

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "loja_001",
+    "nome": "Loja 001",
+    "endereco": "Endereço Loja 001",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  },
+  {
+    "id": "loja_002",
+    "nome": "Loja Centro",
+    "endereco": "Rua Principal, 100",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  },
+  {
+    "id": "loja_003",
+    "nome": "Loja Norte",
+    "endereco": "Av. Norte, 250",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  },
+  {
+    "id": "loja_004",
+    "nome": "Loja Sul",
+    "endereco": "Av. Sul, 300",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  },
+  {
+    "id": "loja_005",
+    "nome": "Loja 005",
+    "endereco": "Endereço Loja 005",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  },
+  {
+    "id": "loja_006",
+    "nome": "Loja Leste",
+    "endereco": "Av. Leste, 400",
+    "capacidade_m3": 80.0,
+    "ativa": true,
+    "estoque": []
+  }
+]

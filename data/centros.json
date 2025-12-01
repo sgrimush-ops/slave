@@ -1,0 +1,126 @@
+[
+  {
+    "id": "cd_principal",
+    "nome": "CD Principal",
+    "endereco": "Av. Logística, 1000",
+    "capacidade_m3": 1000.0,
+    "lojas_atendidas": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "011",
+      "012",
+      "013",
+      "014",
+      "017",
+      "018"
+    ],
+    "estoque": [
+      {
+        "produto_id": "1005980",
+        "quantidade_atual": 200,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1015109",
+        "quantidade_atual": 210,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1015860",
+        "quantidade_atual": 220,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1023184",
+        "quantidade_atual": 230,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1013925",
+        "quantidade_atual": 240,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1014127",
+        "quantidade_atual": 250,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1022708",
+        "quantidade_atual": 260,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1014429",
+        "quantidade_atual": 270,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1022384",
+        "quantidade_atual": 280,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1019166",
+        "quantidade_atual": 290,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1008305",
+        "quantidade_atual": 300,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1008333",
+        "quantidade_atual": 310,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1008302",
+        "quantidade_atual": 320,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1023417",
+        "quantidade_atual": 330,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1023419",
+        "quantidade_atual": 340,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1006318",
+        "quantidade_atual": 350,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1023413",
+        "quantidade_atual": 360,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "37013",
+        "quantidade_atual": 370,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1008306",
+        "quantidade_atual": 380,
+        "quantidade_reservada": 0
+      },
+      {
+        "produto_id": "1021888",
+        "quantidade_atual": 390,
+        "quantidade_reservada": 0
+      }
+    ]
+  }
+]
